@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#body{
+    width: 750px;
+    height: 750px;
+    background: #0486ff;
+    margin: 0px;
+    
+
+}
+
+#logo{
+    margin: 0px;
+    padding: 0px;
+    width: 190;
+    height: 100;
+    background: #000000;
+    float: left;
+    line-height: 0;
+}
+
+
+.cabeza{
+    width: 30%;
+    height: 35;
+    background: #04eeff;
+}
+
+
+.rectangulo{
+    width: 100%;
+    height: 50%;
+    background: #020202;
+}
+
+#lado_derecho{
+    height: 100%;
+    width: 200;
+    background: #ffffff;
+    float: right;
+    margin-top: 55%;
+}
+
+
+footer{
+    height: 50px;
+    background: #f9fdff;
+    margin: 10px;
+}
+
